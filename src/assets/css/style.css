@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    padding: 25px;
+    background-color: rgb(253, 253, 253);
+}
+
+.container{
+    max-width: 640px;
+    margin: auto;
+    background-color: rgb(56, 56, 189);
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    padding: 10px;
+    color: white;
+    border-radius: 2%;
+    
+}
+
+.container h1{
+  text-align: center;
+  margin-bottom: 40px;
+    
+}
+.cpf-gerado{
+    font-size: 2em;
+    text-align: center;
+    font-weight:bolder;
+    margin-bottom: 40px;
+    letter-spacing: 5px;
+}
+
